@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Harry-Kachigamba.
 - 👀 I’m interested in Mobile and Web Development.
-- 🌱 I’m currently learning AI and Machine Learning.
+- 🌱 I’m currently learning AI - Machine Learning.
